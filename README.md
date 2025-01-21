@@ -10,7 +10,8 @@ I have completed immersive development programmes through [The Developer Academy
 
 ### 🧰 Toolkit
 
-[icons/android/android-original.svg](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg)
+<img src="[https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg)" alt="bash" width="40" height="40"/>
+
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen)
