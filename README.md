@@ -13,13 +13,13 @@
 &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Icon" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Icon" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Icon" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Icon" width="40" height="40" style="background-color: white"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Icon" width="40" height="40" style="background-color: white"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Icon" width="40" height="40" style="background-color: white"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="WordPress Icon" width="40" height="40" style="background-color: white"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" alt="wooCommerce Icon" width="40" height="40" style="background-color: white"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass Icon" width="40" height="40" style="background-color: white"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind Icon" width="40" height="40" style="background-color: white"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Icon" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Icon" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Icon" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="WordPress Icon" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" alt="wooCommerce Icon" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass Icon" width="40" height="40""/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind Icon" width="40" height="40"/>
 
 
 
