@@ -1,9 +1,14 @@
 ## Hi there 👋
 
+![Profil Vizualizări](https://visitor-badge.laobi.icu/badge?page_id=Dux-ping.Dux-ping)
+![Profil Vizualizări](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDux-ping&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=vizualizari&edge_flat=false)
+
+
+
 <!--
 **Dux-ping/Dux-ping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Profil Vizualizări](https://visitor-badge.laobi.icu/badge?page_id=viorel-andrei.viorel-andrei)
+
 
 
 Here are some ideas to get you started:
