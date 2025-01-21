@@ -2,11 +2,11 @@
 
 ### 🌱 Continuous Learning & Growth
 
-I have completed immersive development programmes through [The Developer Academy](https://www.thedeveloperacademy.com) and [Coursera](https://www.coursera.org), specialising in Front-End Development. These experiences gave me a solid foundation in modern web technologies and a passion for building user-centric applications.
+&nbsp; I have completed immersive development programmes through [The Developer Academy](https://www.thedeveloperacademy.com) and [Coursera](https://www.coursera.org), specialising in Front-End Development. These experiences gave me a solid foundation in modern web technologies and a passion for building user-centric applications.
 
 ### 🎓 Certifications
 
-🏅[Meta Front-End Developer](https://www.coursera.org/account/accomplishments/certificate/P4NG21MJO4HM) &nbsp; [Full Stak Developer](https://www.thedeveloperacademy.com/)
+&nbsp; 🏅[Meta Front-End Developer](https://www.coursera.org/account/accomplishments/certificate/P4NG21MJO4HM) &nbsp; [Full Stak Developer](https://www.thedeveloperacademy.com/)
 
 ### 🧰 Toolkit
 
