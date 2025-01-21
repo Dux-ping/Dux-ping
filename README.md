@@ -15,6 +15,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Icon" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Icon" width="40" height="40" style="background-color: white"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Icon" width="40" height="40" style="background-color: white"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Icon" width="40" height="40" style="background-color: white"/>
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen)
