@@ -8,7 +8,7 @@ I have successfully completed immersive development programmes through [The Deve
 
 ### 🎓 Certifications
 
-[![Coursera Logo](https://d3njjcbhbojbot.cloudfront.net/web/images/logos/coursera-logo.svg)](https://coursera.org/share/d48ccef723c79b187b0241b1ece7bd22) [![Meta Front-End Developer](https://img.shields.io/badge/Meta%20Front-End%20Developer-Coursera-blue)](https://coursera.org/share/d48ccef723c79b187b0241b1ece7bd22)
+[![Meta Front-End Developer](https://img.shields.io/badge/Meta%20Front-End%20Developer-Coursera-blue)](https://coursera.org/share/d48ccef723c79b187b0241b1ece7bd22)
 
 
 
