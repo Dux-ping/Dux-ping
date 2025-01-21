@@ -8,7 +8,7 @@ I have completed immersive development programmes through [The Developer Academy
 
 🏅[Meta Front-End Developer](https://www.coursera.org/account/accomplishments/certificate/P4NG21MJO4HM) &nbsp; [Full Stak Developer](https://www.thedeveloperacademy.com/)
 
-### How are they called.. a yes? Skills
+### Toolkit
 
 
 
