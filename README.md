@@ -1,4 +1,4 @@
-### 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&pause=1000&color=39FF14&width=435&lines=Hello)](https://git.io/typing-svg), I'm Viorel! I'm passionate about gaming and technology, always exploring the latest trends and innovations...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&pause=1000&color=39FF14&width=435&lines=%F0%9F%91%8B++Hello%2C++I'm+Viorel!+I'm+passionate+about+gaming+and+technology%2C+always+exploring+the+latest+trends+and+innovations...)](https://git.io/typing-svg)
 
 
 ### 🌱 Continuous Learning & Growth
