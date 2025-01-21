@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dux-ping&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Visits](https://badges.strackr.com/github/Dux-ping?style=flat-square&label=visits&color=green)
+
 
 
 
