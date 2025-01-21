@@ -1,11 +1,10 @@
 ## Hi there 👋
 
+### 👋 Hello, I'm Viorel!
 
+### 💻 Training & Development
 
-<h3 align="center">🚀 Education & Training</h3>
-
-
-I have successfully completed immersive development programmes through [The Developer Academy](https://www.thedeveloperacademy.com) and [Coursera](https://www.coursera.org), specialising in Front-End Development. These experiences gave me a solid foundation in modern web technologies and a passion for building user-centric applications.
+I have completed immersive development programmes through [The Developer Academy](https://www.thedeveloperacademy.com) and [Coursera](https://www.coursera.org), specialising in Front-End Development. These experiences gave me a solid foundation in modern web technologies and a passion for building user-centric applications.
 
 ### 🎓 Certifications
 
