@@ -10,6 +10,7 @@ I have completed immersive development programmes through [The Developer Academy
 
 ### 🧰 Toolkit
 
+<a href="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"/a>
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen)
