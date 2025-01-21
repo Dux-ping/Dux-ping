@@ -24,6 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Icon" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="WordPress Icon" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" alt="wooCommerce Icon" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Nextjs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="DB Icon" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql Icon" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="PS Icon" width="40" height="40"/>
