@@ -1,5 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=200&size=30&letterSpacing=&pause=1000&color=39FF14&random=true&width=380&height=45&lines=%F0%9F%91%8B++Hello%2C++I'm+Viorel%2C)](https://git.io/typing-svg) 
-### I'm passionate about gaming and technology, always exploring the latest trends and innovations...
+### &nbsp;&nbsp;&nbsp; I'm passionate about gaming and technology, always exploring the latest trends and innovations...
 
 
 ### 🌱 Continuous Learning & Growth
