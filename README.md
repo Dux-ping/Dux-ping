@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen&label=views%20)
+
 
 
 
