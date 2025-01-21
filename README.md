@@ -1,5 +1,6 @@
 ### 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&pause=1000&color=39FF14&width=435&lines=Hello)](https://git.io/typing-svg), I'm Viorel! I'm passionate about gaming and technology, always exploring the latest trends and innovations...
 
+
 ### 🌱 Continuous Learning & Growth
 
 &nbsp; I have completed immersive development programmes through [The Developer Academy](https://www.thedeveloperacademy.com) and [Coursera](https://www.coursera.org), specialising in Front-End Development. These experiences gave me a solid foundation in modern web technologies and a passion for building user-centric applications.
