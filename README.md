@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen)
+
 
 <p style="text-align: center;">### 🚀 Education & Training</p>
 
@@ -11,7 +11,7 @@ I have successfully completed immersive development programmes through [The Deve
 [![Meta Front-End Developer](https://img.shields.io/badge/Meta%20Front-End%20Developer-Coursera-blue)](https://coursera.org/share/d48ccef723c79b187b0241b1ece7bd22)
 
 
-
+![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen)
 
 
 
