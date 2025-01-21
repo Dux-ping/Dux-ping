@@ -1,6 +1,4 @@
-### 👋 Hello, I'm Viorel!
-
-###👋 Hello, I'm Viorel! I'm passionate about gaming and technology, always exploring the latest trends and innovations...
+### 👋 Hello, I'm Viorel! I'm passionate about gaming and technology, always exploring the latest trends and innovations...
 
 ### 🌱 Continuous Learning & Growth
 
