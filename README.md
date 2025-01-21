@@ -17,6 +17,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Icon" width="40" height="40" style="background-color: white"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Icon" width="40" height="40" style="background-color: white"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="WordPress Icon" width="40" height="40" style="background-color: white"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" alt="wooCommerce Icon" width="40" height="40" style="background-color: white"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass Icon" width="40" height="40" style="background-color: white"/>
 
 
 
