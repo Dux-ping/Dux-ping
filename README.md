@@ -10,14 +10,6 @@ I have completed immersive development programmes through [The Developer Academy
 
 [![Meta Front-End Developer]([https://img.shields.io/badge/Meta%20Front-End%20Developer-Coursera-blue](https://www.coursera.org/account/accomplishments/specialization/certificate/P4NG21MJO4HM))](https://coursera.org/share/d48ccef723c79b187b0241b1ece7bd22)
 
-### 🎓 Certifications
-
-Here is my **Meta Front-End Developer** certification from Coursera:
-
-![Certification Icon]([https://link-catre-imaginea-ta.png](https://www.coursera.org/account/accomplishments/specialization/certificate/P4NG21MJO4HM)) **Meta Front-End Developer**
-
-
-
 ![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen)
 
 
