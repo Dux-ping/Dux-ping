@@ -10,7 +10,7 @@ I have completed immersive development programmes through [The Developer Academy
 
 ### 🧰 Toolkit
 
-<code><img title="React.js" height="25" src="images/react-original.svg"></code>
+[icons/android/android-original.svg](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen)
