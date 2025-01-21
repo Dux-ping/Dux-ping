@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDux-ping&count_bg=%23A9F1D3&title_bg=%23000000&title=Views&icon=&icon_color=%23E7E7E7&edge_flat=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dux-ping&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
 
 
 
