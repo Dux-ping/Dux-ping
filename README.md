@@ -10,7 +10,7 @@ I have completed immersive development programmes through [The Developer Academy
 
 ### 🧰 Toolkit
 
-<a href="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" target="_blank" rel="noreferrer">
+<a href="[https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg](https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg)" target="_blank" rel="noreferrer">
 
 
 
