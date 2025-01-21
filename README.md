@@ -1,4 +1,6 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=200&size=30&letterSpacing=&duration=7000&pause=1000&color=39FF14&random=true&width=2000&height=100&lines=%F0%9F%91%8B++Hello%2C++I'm+Viorel%2C;I'm+passionate+about+gaming+and+technology%2C+always+exploring+the+latest+trends+and+innovations...)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=200&size=30&letterSpacing=&duration=7000&pause=1000&color=39FF14&random=true&width=2000&height=100&lines=%F0%9F%91%8B++Hello%2C++I'm+Viorel%2C)](https://git.io/typing-svg)
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&weight=200&size=30&letterSpacing=&duration=7500&pause=1000&color=39FF14&random=true&width=2000&height=100&lines=I'm+passionate+about+gaming+and+technology%2C+always+exploring+the+latest+trends+and+innovations.)](https://git.io/typing-svg)
 
 
 ### 🌱 Continuous Learning & Growth
