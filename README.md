@@ -27,6 +27,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql Icon" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="PS Icon" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="AI Icon" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Icon" width="40" height="40"/>
 
 
 
