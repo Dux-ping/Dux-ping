@@ -2,6 +2,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen)
 
+### 🚀 Education & Training
+
+I have successfully completed immersive development programmes through [The Developer Academy](https://www.thedeveloperacademy.com) and [Coursera](https://www.coursera.org), specialising in Front-End Development. These experiences gave me a solid foundation in modern web technologies and a passion for building user-centric applications.
+
+### 🎓 Certifications
+
+Here is my **Meta Front-End Developer** certification from Coursera:
+
+[![Meta Front-End Developer](https://img.shields.io/badge/Meta%20Front-End%20Developer-Coursera-blue)](https://coursera.org/share/d48ccef723c79b187b0241b1ece7bd22)
 
 
 
