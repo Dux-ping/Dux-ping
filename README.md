@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Visits](https://badges.strackr.com/github/Dux-ping?style=flat-square&label=visits&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen)
+
 
 
 
