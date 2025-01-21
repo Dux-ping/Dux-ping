@@ -20,6 +20,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" alt="wooCommerce Icon" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass Icon" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind Icon" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="DB Icon" width="40" height="40"/>
 
 
 
