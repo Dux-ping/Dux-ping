@@ -10,6 +10,7 @@ Here is my **Meta Front-End Developer** certification from Coursera:
 
 🏅[Meta Front-End Developer](https://www.coursera.org/account/accomplishments/certificate/P4NG21MJO4HM)
 
+### How are they called.. a yes? Skills
 
 
 
