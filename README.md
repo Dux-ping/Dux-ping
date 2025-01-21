@@ -10,7 +10,7 @@ I have completed immersive development programmes through [The Developer Academy
 
 ### 🧰 Toolkit
 
-<img title="React.js" height="25" src="images/react-original.svg"></code>
+<code><img title="React.js" height="25" src="images/react-original.svg"></code>
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dux-ping&color=brightgreen)
